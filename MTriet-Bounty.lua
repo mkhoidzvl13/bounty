@@ -2,7 +2,7 @@ getgenv().Config = {
     ["Team"] = "Pirates", --// Marines, Pirates
     ["Webhook"] = {
         ["Enable"] = false, --// Enable if you have Webhook Url
-        ["Url"] = "" --// Your webhook url
+        ["Url"] = "https://discord.com/api/webhooks/1207575193631850506/SEgfgoHjUqd6VN-m7pysZ9scqh6hGzR72DuvRlXRvNo4bdNu3CPkbU0AHHg3mMgsDhiV" --// Your webhook url
     },
     ["Skip"] = {
         ["V4"] = true, --// Skip V4
