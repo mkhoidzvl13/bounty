@@ -70,4 +70,4 @@ getgenv().Config = {
     }
 }
 repeat wait() until game:IsLoaded()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhtriettt/Hunt/main/AutoBountyV2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mkhoidzvl13/bounty/main/MTriet-Bounty.lua"))()
