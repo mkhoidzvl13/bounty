@@ -2,7 +2,7 @@ getgenv().Config = {
     ["Team"] = "Pirates", --// Marines, Pirates
     ["Webhook"] = {
         ["Enable"] = false, --// Enable if you have Webhook Url
-        ["Url"] = "" --// Your webhook url
+        ["Url"] = "https://discord.com/api/webhooks/1207575193631850506/SEgfgoHjUqd6VN-m7pysZ9scqh6hGzR72DuvRlXRvNo4bdNu3CPkbU0AHHg3mMgsDhiV" --// Your webhook url
     },
     ["Skip"] = {
         ["V4"] = true, --// Skip V4
@@ -15,7 +15,7 @@ getgenv().Config = {
     },
     ["Chat"] = {
         ["Enable"] = false, --// Enable Chat
-        ["Content"] = {"Hello me use MTriet Hub Auto Bounty"} --// Content
+        ["Content"] = {"Hello me use Grayx Hub Auto Bounty"} --// Content
     },
     ["Misc"] = {
         ["Hide If Low Health"] = true, --// Run
@@ -70,4 +70,4 @@ getgenv().Config = {
     }
 }
 repeat wait() until game:IsLoaded()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhtriettt/Hunt/main/AutoBountyV2.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mkhoidzvl13/bounty/main/Grayx-bounty.lua"))()
