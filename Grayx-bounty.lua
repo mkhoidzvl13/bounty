@@ -38,7 +38,7 @@ if jackhub_key == "grayx" then
     if _G.KAITAN1CLICK then
         print "bro got secret WL"
         require(game.ReplicatedStorage:WaitForChild("Notification")).new(
-            " <Color=Blue> 🖤 no way Jack Hub Kaitan | Beta is updated 🖤 <Color=/> "
+            " <Color=Blue> 🖤 no way gray Hub Kaitan | Beta is updated 🖤 <Color=/> "
         ):Display()
         if _G.Settings["Auto Soul Guitar"] then
             _G.Auto_Soul_Guitar = true
@@ -869,7 +869,7 @@ if jackhub_key == "grayx" then
         X.BorderSizePixel = 0
         X.Position = UDim2.new(0.438095242, 0, -0.321739137, 0)
         X.Size = UDim2.new(0, 65, 0, 65)
-        X.Image = "rbxassetid://16173596986"
+        X.Image = "rbxassetid://16729397232"
         Y.Name = "Credits"
         Y.Parent = P
         Y.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -879,7 +879,7 @@ if jackhub_key == "grayx" then
         Y.Position = UDim2.new(0, 0, 0.813396335, 0)
         Y.Size = UDim2.new(0, 515, 0, 25)
         Y.Font = Enum.Font.GothamBold
-        Y.Text = "Script By : Jack"
+        Y.Text = "Script By : grayx"
         Y.TextColor3 = Color3.fromRGB(210, 210, 210)
         Y.TextSize = 16.000
         Y.TextXAlignment = Enum.TextXAlignment.Right
